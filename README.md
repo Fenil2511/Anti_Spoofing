@@ -1,7 +1,7 @@
 # Anti_Spoofing
 Face recognition apps are vulnerable to presentation attacks like digital displays or printed paper. This necessitates robust deep learning models for face anti-spoofing to ensure authenticity.
 
-# Face Detection with YOLO
+# Face Anti-Spoofing for Enhanced Biometric Security
 
 This project uses YOLO (You Only Look Once) to perform real-time face detection.
 
